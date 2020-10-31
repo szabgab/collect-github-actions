@@ -1,0 +1,9 @@
+https://github.com/szabgab/github-actions
+https://github.com/philiprbrenan/PreprocessOps
+https://github.com/Perl/docker-perl-tester
+https://github.com/Test-More/Test2-Harness
+https://github.com/briandfoy/PerlPowerTools
+https://github.com/oalders/ci-perl-tester-helpers
+https://github.com/voidful/TFkit
+https://github.com/sdras/awesome-actions
+https://github.com/nektos/act
