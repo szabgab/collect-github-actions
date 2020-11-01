@@ -5,6 +5,8 @@ import re
 import subprocess
 import tempfile
 import yaml
+from pymongo import MongoClient
+
 
 class Collector():
     def __init__(self, args):
